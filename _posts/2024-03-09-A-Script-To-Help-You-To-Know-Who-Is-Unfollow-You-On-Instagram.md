@@ -4,9 +4,9 @@ published: true
 
 ---
 
-[Link to another page](another-page).
+[Link to index page](/).
 
-If someone is unfollow you, you can know, there is a lot of applications, but this way of doing that don't need you to download any application. You just need to copy and paste.
+If someone unfollow you, you can know, there is a lot of applications, but this way of doing that don't need you to download any application. You just need to copy and paste.
 
 1- First you need to press `F12` in your browser, and accept the console can enter javascript code.
 
