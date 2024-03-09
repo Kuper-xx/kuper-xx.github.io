@@ -7,7 +7,7 @@ Hello, my nickname is `Kuper-xx` on GitHub, and on other social media, it's `kup
 
 I also consider myself a tech-optimist, so I also love Bitcoin and cryptocurrencies. I think this is a path to the future. I don't know if it's for day-to-day usage, but yes to change things in the future, no matter what.
 
-This is a webpage to post some random stuff that I consider useful, or just because I want to post things cause I want it.
+This is a webpage to post some random stuff that I consider useful, or just because I want to post things.
 
 * Github: [Kuper-xx](https://github.com/kuper-xx)
 * Twitter: [Kuper_xx](https://x.com/kuper_xx)
