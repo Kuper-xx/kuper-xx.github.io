@@ -1,5 +1,5 @@
 ---
-title: A script to help you to know who is unfollow you on Instagram
+title: A script to help you to know who are unfollow you on Instagram
 published: true
 
 ---
