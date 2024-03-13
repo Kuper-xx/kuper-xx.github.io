@@ -75,7 +75,7 @@ class IntegralTutorial(Scene):
 After this we will need to create a Folder I just named "Integral" and after this I created a python file and copy-paste this code.
 
 ### [](#header-3)Third step - execution
-This is the final step, and the simplest we need to open a Command Control of windows and type:
+This is the final step, and the simplest we need to open a Command Control of windows and write:
 
 ```
 manim integral_tutorial.py IntegralTutorial -p -ql
