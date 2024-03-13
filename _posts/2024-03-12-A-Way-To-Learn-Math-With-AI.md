@@ -30,7 +30,7 @@ Now we have all the libraries and dependencies for this task we can go to the se
 
 ## [](#header-2)Second step - preparation
 
-Here we all have to learn to use this libraries and do handwork or... just... Use AI, for this task I used a new version of Claude 3, to be clear `Claude 3 Opus` and just ask for me to create a python code using MANIM Library to create a video of a simple explanation of what is it an integral.
+Here we all have to learn to use this libraries and do handwork or... just... Use AI, for this task I used a new version of Claude 3, to be clear `Claude 3 Opus` and I just asked to the AI that create for me a python code using MANIM Library to create a video of a simple explanation of what is it an integral.
 
 The answer of Claude 3 Opus was this code:
 
