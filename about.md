@@ -9,6 +9,7 @@ I also consider myself a tech-optimist, so I also love Bitcoin and cryptocurrenc
 
 This is a webpage to post some random stuff that I consider useful, or just because I want to post things.
 
+* Youtube: [Kuper-xx-channel](https://www.youtube.com/@Kuper-xx-channel)
 * Github: [Kuper-xx](https://github.com/kuper-xx)
 * Twitter: [Kuper_xx](https://x.com/kuper_xx)
 * Instagram: [Kuper_xx](https://instagram.com/kuper_xx)
