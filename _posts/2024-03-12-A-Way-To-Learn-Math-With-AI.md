@@ -9,21 +9,21 @@ published: true
 
 The first step is install all the requirements that we need, they are: _LaTeX, Manim, Ffmpeg and Scoop_
 
-1) **Scoop installation**
+1. **Scoop installation**
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
-2) **Ffmpeg installation**
+2. **Ffmpeg installation**
 ```
 scoop install ffmpeg
 ```
-3) **Manim installation**
+3. **Manim installation**
 ```
 pip install manim
 ```
 Manim is the library created by 3Blue1Brown to help us to render a beautiful videos that we will see in the result.
-4) **LaTeX installation**
+4. **LaTeX installation** \
 Here we will need to enter here [Here](https://miktex.org/download) if we have Windows and install MiKTeX that is a distribution of LaTeX for Windows, and you can enter to this [Link](https://miktex.org/howto/install-miktex) to see a tutorial of how to install it.
 
 Now we have all the libraries and dependencies for this task we can go to the second step...
